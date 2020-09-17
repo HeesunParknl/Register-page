@@ -113,11 +113,6 @@ button {
         display: none;
     }
 
-    body {
-        background-image: url(yoga3.jpg);
-        background-size: cover;
-    }
-
     body::before {
         position: fixed;
         top: 0;
