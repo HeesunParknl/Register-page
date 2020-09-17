@@ -131,4 +131,11 @@ button {
         content: "";
     }
 
+    .register-popUp {
+        margin: 2em;
+    }
+
+    .web-left {
+        padding: 4em;
+    }
 }
